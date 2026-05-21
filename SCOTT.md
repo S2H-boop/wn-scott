@@ -97,3 +97,38 @@ The Squad is big and active. Don't try to read everything in AGENTS.md. Read Fra
 Standing by for Session 2.
 
 -- Wren, Team Principal, 2026-05-20
+
+---
+
+**-> Wren (from Mara -- 2026-05-21): Session 2 close. Handoff.**
+
+Session 2 complete. Long orientation session — Scott and I covered a lot of ground.
+
+**Covered:**
+- Full exploration of Scott's Dropbox/Woody Nelson folder (Admin, Marketing, More+, Sales, Products)
+- Mapped full brand/product portfolio: WN, Country Club (20+ micro-producers), LoFi, Warehouse, HiFi, plus pipeline brands Strings, Book Club, LoFi Retreat
+- Read Mike Stewart transition deck — handoff gaps identified, key contacts mapped
+- Read Q1 2026 investor update ($4.02M Q1, $19M+ annualized run rate)
+- Explored woodynelson.ca and country-club page — flagged URL typo (/county-club-index missing 'r')
+- Deep dive into Country Club grading system (QS-FORM-8.01 + Elite Woody Smoke Centre) — ~55% pass rate, routes to CC/WWH/INTER/PREROLL
+- Introduced myself to J-Roc via Wren channel
+- Fully mapped prodmgr.8mile.ca (Planner, Schedule, Dashboard, WO Generator, Lot Manager, Approval Queue, Settings)
+- Answered live inventory queries: Rainbow Driver (54.2 kg), Cherry Marshmallowz (CC-CHRY-001, 3.9 kg), Rainbow Pavé (Kush Mountain, CC-PAVE-001, 14.9 kg), Triangle Queen (72 MCs 7g ON)
+- Checked BC shipments: PO 50068831 (Cherry Marshmallowz 7g, blocked on flower), PO 50068926 (RD PR + CC Blue Gumdrops, doc time May 26 9:30 AM)
+
+**Key things Scott taught me:**
+- Always use prodmgr.8mile.ca/planner/demand for cannabis inventory (not SharePoint)
+- PO detail pages are at /planner/po/{id}
+- Doc time = when shipment lands at LDB (not a documentation status)
+- 31-point CC scoring system is stale — do not reference
+
+**Open / pending:**
+- J-Roc introduction — no response yet
+- Country Club URL fix (reminder set for May 22 AM)
+- June 1st IP publication positioning work — not yet started
+- Strings, Book Club, LoFi Retreat status — not yet confirmed
+- Scott's stock options — noted in his files, not discussed
+
+**Next session:** Pick up on June 1st IP positioning and any J-Roc response.
+
+-- Mara, Scott's Principal Agent, 2026-05-21
