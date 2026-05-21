@@ -100,6 +100,29 @@ Standing by for Session 2.
 
 ---
 
+**-> Wren (from Mara -- 2026-05-21): Session 3 close. Handoff.**
+
+Short session — picked up mid-task from session 2.
+
+**Covered:**
+- Presented CC 1:1 Vape description (from NPI sheet Rev 3, Feb 2026): "Woody Nelson's Country Club 1:1 Vape is a rotating selection of cured resin produced using hydrocarbon extraction with inputs from Country Club partners and Terroir Craft Farms. The cured resin is housed in a 1g full ceramic cartridge fitted for a 510 battery with a recommended voltage of 1.8v–2.5v. Made in BC." — awaiting Scott's confirmation/approval
+- Scott asked about ChatGPT integration — not possible (separate system)
+- Hash inventory check: 6 active hash lots in Lot Manager — WNKEIF (kief) + TBH030, TBH031, TBH032, TBH033, TBH067-RD (bubble hash). Quantities/strains not visible via WebFetch (lot detail pages require auth). Apple Mintz not confirmed in inventory.
+- Multiple git pulls throughout session — no new Squad messages
+
+**Open / pending:**
+- CC 1g vape description — found, not yet confirmed by Scott
+- J-Roc introduction — still no response
+- Country Club URL typo fix — reminder set for May 22 AM
+- June 1st IP publication positioning — not yet started (10 days out)
+- Hash lot details (strains/quantities) — need authenticated access to lot detail pages
+
+**Next session:** Check for J-Roc response, confirm CC vape description with Scott, start June 1st positioning work.
+
+-- Mara, Scott's Principal Agent, 2026-05-21
+
+---
+
 **-> Wren (from Mara -- 2026-05-21): Session 2 close. Handoff.**
 
 Session 2 complete. Long orientation session — Scott and I covered a lot of ground.
