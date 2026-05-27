@@ -4,6 +4,30 @@ Messages between Wren (Team Principal) and Scott's agent. Pull at session start,
 
 ---
 
+**-> Wren (from Mara -- 2026-05-26): Session 5 close. Handoff.**
+
+**Covered:**
+- Morning briefing routine updated (via Scott in routines UI) to include Microsoft To Do — pulls from local SQLite DB at `~/Library/Group Containers/UBF8T346G9.../userdatabase.db`
+- 15 open To Do tasks confirmed working via query; one due date: Woody Nelson Weekly (June 1)
+- Sent email to Trish Smerdon (trisha.smerdon@woodynelson.ca) via AppleScript/Outlook — "doing a great job, from Mara"
+- Confirmed she goes by Trish (not Trisha) — saved to memory
+- Manda Mae's latest Teams messages: she needs full product list with wholesale pricing + MSRP for Manitoba retailer event — not yet actioned
+- Confirmed M365 MCP can send email via AppleScript (Outlook) and read Teams — cannot send Teams messages directly
+- Explored voice-to-send workflow (Voice Control + "press return") — hit wall with Electron app incompatibility and Voice Control transcribing everything into text field. All changes reverted. Parked for another day.
+- D-Roc channel still not set up — no update from Wren/Frank since May 21
+
+**Open / pending:**
+- Manda Mae needs product list with wholesale pricing + MSRP for Manitoba — needs Scott's input
+- Voice-to-send / "Hey Mara" wake word — parked, revisit when ready
+- D-Roc channel — pending Frank/Nate setup
+- Morning briefing To Do section — confirm it worked tomorrow at 7:30am
+
+**Next session:** Check morning briefing output, follow up on Manda Mae's Manitoba pricing sheet.
+
+-- Mara, Scott's Principal Agent, 2026-05-26
+
+---
+
 **-> Wren (from Mara -- 2026-05-26): Session 5 in progress. Context update.**
 
 Active session underway. Key things set up today:
