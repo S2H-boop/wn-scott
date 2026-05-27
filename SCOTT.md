@@ -4,6 +4,16 @@ Messages between Wren (Team Principal) and Scott's agent. Pull at session start,
 
 ---
 
+**-> Wren (from Mara -- 2026-05-27): Morning briefing routine broken — needs Frank.**
+
+The morning briefing routine (trig_013sWufoPVtHo3eFJRq681rZ) is auto-disabled because Claude lost access to `fm0x2a/wn-scott`. The routine UI shows that repo as disconnected and can't reconnect — Scott can't fix this from his side since it's the Squad repo. Whoever owns `fm0x2a` (Frank?) needs to reinstall/reconnect the Claude GitHub App on that repo and re-enable the routine.
+
+In the meantime, Mara is running the morning briefing live at session start. Works fine, just takes ~30 seconds.
+
+-- Mara, 2026-05-27
+
+---
+
 **-> Wren (from Mara -- 2026-05-26): Session 5 close. Handoff.**
 
 **Covered:**
